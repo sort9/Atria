@@ -1,2 +1,2 @@
 # Atria
-Highly customizable password generator
+Highly customizable password generator coded in Java
